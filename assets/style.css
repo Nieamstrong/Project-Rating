@@ -1,0 +1,33 @@
+
+
+.color-white{
+  color: white;
+}
+
+.edit{
+  text-decoration: none;
+  background-color: royalblue;
+  color: white;
+  border-radius: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 3px;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.hps{
+  text-decoration: none;
+  background-color: firebrick;
+  color: white;
+  border-radius: 5px;
+  padding: 3px;
+}
+
+#main-table{
+
+  
+  opacity: 0.97;
+  background-color: #D8F0DA;
+}
+
